@@ -17,6 +17,7 @@ This repository includes the following components:
 - **Models Notebook**: Jupyter notebooks containing the code for training and evaluating the models.
 - **Preprocessing Scripts**: Scripts used for preprocessing the dataset.
 - **Dataset**: The actual dataset created in the research.
+- **Initial Datasets**: The initial datasets queried from Wikidata.
 
 ## Contact
 For any questions or further information, please contact **Vemmos Tasos** at [tasos.vemmos@gmail.com](mailto:tasos.vemmos@gmail.com).
